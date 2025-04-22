@@ -2,7 +2,6 @@
 
 ## Features
 
-- **Launch Applications**: Open Chrome or Notepad
 - **Media Control**: Play/pause and skip tracks
 - **Volume Control**: Adjust system volume up/down
 - **Mouse Control**: Click and move operations
